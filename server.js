@@ -26,4 +26,4 @@ mongoose
   });
 
 // Routes
-app.use("/api/users", require("./Routers/UserRoutes"));
+app.use("/api/users", require("./routers/UserRoutes"));
